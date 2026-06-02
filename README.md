@@ -1,20 +1,37 @@
 # SplitBuddy
 
-## Overview
-SplitBuddy is a MERN stack application for tracking and sharing expenses in real time.
+A MERN Stack application for real-time expense tracking and expense sharing.
 
 ## Features
+
 - User Authentication
 - Expense Tracking
 - Expense Sharing
 - Transaction Management
-- Responsive UI
+- Responsive User Interface
 
 ## Tech Stack
-- MongoDB
-- Express.js
+
+### Frontend
 - React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+### Backend
 - Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+## Project Structure
+
+frontend/
+backend/
+Documentation/
+database/
 
 ## Author
+
 Neel Udhanawala
